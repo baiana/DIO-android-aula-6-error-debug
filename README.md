@@ -1,4 +1,4 @@
-# DIO Desenvolvimento Android  - Aula 6 ( debug e error
+# DIO Desenvolvimento Android  - Aula 6 (Debug e Error)
 
 ## Projeto: Quebre esse app :boom:
 Esse projeto corresponde ao código apresentado durante a aula e contém alguns TODOs para te encorajar a criar coisas novas;
